@@ -6,12 +6,14 @@
 
 ## 安装和下载
 
+- 下载地址 https://github.com/ShawDuChen/fast-cache/releases
+
 ## 快速使用
 
 简单接入的文档
 
 - [使用文档](./doc/use/README.md)
-- 二次开发文档
+- 二次开发文档(./doc/dev/README.md)
 
 ## 交流and提问
 https://github.com/ShawDuChen/fast-cache/issues
