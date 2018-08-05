@@ -1,2 +1,2 @@
-# fast-cache
-短小精悍的内存工具
+﻿# fast-cache
+短小精悍的内存工具——基于JavaScript
